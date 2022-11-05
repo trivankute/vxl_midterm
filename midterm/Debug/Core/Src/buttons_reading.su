@@ -1,0 +1,6 @@
+buttons_reading.c:38:6:subKeyProcess0	4	static
+buttons_reading.c:42:7:button_reading0	8	static
+buttons_reading.c:79:7:subKeyProcess1	4	static
+buttons_reading.c:83:8:button_reading1	8	static
+buttons_reading.c:121:8:subKeyProcess2	4	static
+buttons_reading.c:125:9:button_reading2	8	static

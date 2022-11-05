@@ -1,0 +1,3 @@
+buttons_processing.c:11:5:is_button0_pressed	4	static
+buttons_processing.c:20:6:is_button1_pressed	4	static
+buttons_processing.c:30:7:is_button2_pressed	4	static
